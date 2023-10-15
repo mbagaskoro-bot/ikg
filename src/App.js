@@ -308,11 +308,11 @@ function App() {
                             <input
                                 className="apiKeyTextField mt-2"
                                 type="password"
-                                placeholder="Enter your OpenAI API key..."
+                                placeholder=""
                             ></input>
                             <textarea
                                 className="searchBar block p-2.5 w-full h-[300px] text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 mt-1"
-                                placeholder="Describe your graph..."
+                                placeholder=""
                             ></textarea>
 
                             <button
