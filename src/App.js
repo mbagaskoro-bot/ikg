@@ -1,6 +1,7 @@
 import "./App.css"
 import Graph from "react-graph-vis"
 import React, { useState } from "react"
+import { Analytics } from "@vercel/analytics/react"
 
 const DEFAULT_PARAMS = {
     model: "text-davinci-003",
