@@ -281,7 +281,7 @@ function App() {
 
         document.getElementsByClassName("generateButton")[0].disabled = true
         const prompt = document.getElementsByClassName("searchBar")[0].value
-        const apiKey = "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"
+        const apiKey = ""
 
         queryPrompt(prompt, apiKey)
     }
